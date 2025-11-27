@@ -1,7 +1,7 @@
 # DEPTH FIRST SEARCH
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:KANISH TR </h3>
-<h3>Register Number: 212224060116</h3>
+<h3>Name: Rohit GP </h3>
+<h3>Register Number: 212224220082</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
